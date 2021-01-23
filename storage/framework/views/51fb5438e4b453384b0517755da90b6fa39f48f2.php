@@ -1,0 +1,1 @@
+<?php /**PATH C:\OpenServer\domains\finish_project\resources\views/welcome.blade.php ENDPATH**/ ?>
